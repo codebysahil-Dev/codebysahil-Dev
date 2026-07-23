@@ -37,8 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebysahil-Dev&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysahil-Dev&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebysahil-Dev&theme=tokyonight" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebysahil-Dev&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebysahil-Dev&theme=tokyonight" width="48%">
 </p>
 
 ---
