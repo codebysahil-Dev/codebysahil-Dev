@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
@@ -34,19 +36,20 @@
 ### 📌 Featured Projects
 
 - [🎬 YouTube Clone](https://github.com/codebysahil-Dev/youtube-clone) — Responsive YouTube homepage with hover effects
-- Coming soon: more projects...
+- [💼 JobOS](https://github.com/codebysahil-Dev/JobOS) — Job application tracker & dashboard
+- More coming soon...
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebysahil-Dev&theme=tokyonight" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebysahil-Dev&show_icons=true&theme=tokyonight&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysahil-Dev&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebysahil-Dev&theme=tokyonight" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebysahil-Dev&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysahil-Dev&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
@@ -55,6 +58,7 @@
 
 <p>
   <a href="https://github.com/codebysahil-Dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sahil-satija"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
