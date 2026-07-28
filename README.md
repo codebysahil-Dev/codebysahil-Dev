@@ -98,21 +98,6 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebysahil-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysahil-Dev&layout=compact&theme=tokyonight&hide_border=true" width="49%">
-</p>
-
-<br>
-
----
-
-<br>
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <br>
@@ -138,5 +123,3 @@
   <br>
   <sub>✨ Open to collaborations & opportunities ✨</sub>
 </p>
-
-
