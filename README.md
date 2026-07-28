@@ -1,62 +1,55 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
-</p>
+# 👋 Hey, I'm Sahil!
 
-<h1 align="center">👋 Hi, I'm Sahil</h1>
-<h3 align="center">BCA Student | Full Stack Developer (in progress)</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebysahil-Dev&color=blueviolet" alt="profile views">
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 BCA 1st year at **IGNOU**
-- 🌱 Learning **HTML, CSS, JavaScript** — Next: React + Node.js
-- 🎯 Goal: **MEXT Scholarship → Masters in Japan → Software Job in Japan**
-- 📚 Daily: 5 hours of coding + Japanese + DSA
-- ⚡ Fun fact: I built a YouTube clone before learning JavaScript 😄
-
----
-
-### 🛠️ Tech Stack
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=codebysahil-Dev&color=blueviolet">
+  <img src="https://img.shields.io/badge/BCA-IGNOU-blue">
+  <img src="https://img.shields.io/badge/Goal-Japan_🇯🇵-red">
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 About Me
 
-- [🎬 YouTube Clone](https://github.com/codebysahil-Dev/youtube-clone) — Responsive YouTube homepage
-- [💼 JobOS](https://github.com/codebysahil-Dev/JobOS) — Job application tracker & dashboard
-- More coming soon...
+🔹 **BCA 1st Year** @ IGNOU  
+🔹 Learning **HTML → CSS → JavaScript → React → Node.js**  
+🔹 **MEXT Scholarship** target — Masters in Japan 🗾  
+🔹 Daily: `5 hrs coding + Japanese + DSA`  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebysahil-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysahil-Dev&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
+> "Built a YouTube clone before even learning JS 😅"
 
 ---
 
-### 🌐 Connect
+## 🛠️ Current Skills
+
+`HTML5` `CSS3` `JavaScript` `Git` `VS Code`
+
+---
+
+## 📌 Projects
+
+| Project | What it does |
+|---------|-------------|
+| 🎬 [YouTube Clone](https://github.com/codebysahil-Dev/youtube-clone) | Responsive YouTube homepage |
+| 💼 [JobOS](https://github.com/codebysahil-Dev/JobOS) | Job tracker dashboard |
+
+---
+
+## 📈 GitHub Stats
 
 <p>
-  <a href="https://github.com/codebysahil-Dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sahil-satija"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebysahil-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysahil-Dev&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 </p>
 
 ---
 
-<p align="center">✨ <em>Building projects every day. Japan bound 🗾</em> ✨</p>
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebysahil-Dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-satija)
+
+---
+
+<p align="center"><b>🚀 Japan bound — building everyday!</b></p>
