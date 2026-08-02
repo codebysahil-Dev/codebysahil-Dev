@@ -106,7 +106,7 @@
   <a href="https://github.com/codebysahil-Dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="[https://www.linkedin.com/in/dev-sahilkhan/]">
+  <a href="https://www.linkedin.com/in/sahil-khan-617808400">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gigaspearyt@gmail.com">
